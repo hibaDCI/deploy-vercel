@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Deploy with Vercel 😉😊</h1>
+        <h4>Deploy with Vercel 😊</h4>
       </header>
     </div>
   );
